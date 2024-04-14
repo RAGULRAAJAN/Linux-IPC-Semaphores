@@ -112,9 +112,12 @@ if(NUM_LOOPS>=10)    {
 
 ## OUTPUT
 $ ./sem.o 
+
 ![Alt text](<Screenshot 2024-04-14 220459.png>)
 
 $ ipcs
+
+
 ![Alt text](<Screenshot 2024-04-14 220527.png>)
 
 
